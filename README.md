@@ -1,11 +1,11 @@
-About r-forestmodel
-===================
+About r-forestmodel-feedstock
+=============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-forestmodel-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=forestmodel
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-forestmodel-feedstock/blob/main/LICENSE.txt)
 
 Summary: Produces forest plots using 'ggplot2' from models produced by functions such as stats::lm(), stats::glm() and survival::coxph().
 
